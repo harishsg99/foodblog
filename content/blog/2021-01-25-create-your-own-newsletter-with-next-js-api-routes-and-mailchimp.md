@@ -140,7 +140,7 @@ function Subscribe() {
           ? message
           : `I'll only send emails when new content is posted. No spam.`}
       </div>
-      <button type="submit">{'✨ ubscribe '}</button>
+      <button type="submit">{'subscribe '}</button>
     </form>
   );
 }
