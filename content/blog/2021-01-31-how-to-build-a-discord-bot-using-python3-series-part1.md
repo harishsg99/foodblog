@@ -35,37 +35,22 @@ Before getting into the code, we need to create a “Discord application.” Thi
 
 If you don’t have a Discord account, then you’re going to want to create one. But if you don’t have a Discord account, I don’t see why you would even look at this type of tutorial in the first place.
 
-The page should look something like this:
-
-![Image for post]()
-
-![Image for post]()
 
 Once you are on this page, you’re going to want to go to the “New Application” button:
 
-![Image for post]()
 
-![Image for post]()
 
 After you click on the button, you’ll be prompted to name your application:
 
-![Image for post]()
-
-![Image for post]()
 
 I’m going to name mine “SampleDiscordBot,” but you can really name it anything you want.
 
 So once you’ve created your application, you get brought to a menu that looks like this:
 
-![Image for post]()
-
-![Image for post]()
 
 There’s a lot of information and settings here, but as of right now, we only really care about the “Bot” setting on the left-hand side. So let’s go ahead and click that to get us to the Bot page:
 
-![Image for post]()
 
-![Image for post]()
 
 We then want to click on the “Add Bot” button. A pop-up will come up asking if you want to tie a bot to your application. You want to smash that “Yes, do it!” button.
 
