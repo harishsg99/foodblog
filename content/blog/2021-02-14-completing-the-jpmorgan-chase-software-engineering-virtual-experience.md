@@ -5,9 +5,8 @@ date: 2021-02-14T17:00:16.585Z
 ---
 <!--StartFragment-->
 
-# Learning About the ‘Internship’ Opportunity
 
-There’s a weekly newsletter for Flatiron School grads that offers advice and resources to assist in the job search. A link to the opportunity’s information page was included towards the bottom of the newsletter.
+
 
 ## [Virtual Internships | JPMorgan Chase & Co.](https://careers.jpmorgan.com/us/en/students/campaign/virtual-internship?search=&tags=location__Americas__UnitedStatesofAmerica)
 
