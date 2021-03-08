@@ -7,7 +7,7 @@ date: 2021-03-08T02:15:11.981Z
 
 # 1. Idea
 
-I started searching web espeacially on forums like reddit and quora, My aim was to build a niche API so that I started thinking of how to improve the existing web scraping APIs available in the market. I got a simple idea to improve the existing API is to get an example of things to scraped from the user and give them exactly what they want.
+I started searching web espeacially on forums like reddit and quora, My aim was to build a niche API so that I started thinking of how to improve the existing web scraping APIs available in the market. I got a simple idea to improve the existing API is to get an example of things to scraped from the user and give them exact scraped data what they want.
 
 # 2. User Research
 
