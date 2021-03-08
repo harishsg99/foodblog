@@ -42,6 +42,6 @@ My target was $100 but what I earned in the final was only $10 with lots of less
 
 # Conclusion
 
-Even though I failed in this challenge, I really enjoyed during this challenge and building this product.
+Even though I failed in this challenge, I really enjoyed doing this challenge and building this product.
 
 link for the product : <https://rapidapi.com/harishsg99/api/scrapehoney>
