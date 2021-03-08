@@ -3,7 +3,7 @@ layout: blog
 title: I took a challenge to build an API , make $100 in 48 hrs
 date: 2021-03-08T02:15:11.981Z
 ---
-[](https://twitter.com/CoderHarish/status/1368083115701268482?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1368083115701268482%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2FCoderHarish2Fstatus2F1368083115701268482widget%3DTweet)In this article, I shared  my experience on taking this challenge  and some key learning. I started this challenge and I shared my progress on twitter
+[](https://twitter.com/CoderHarish/status/1368083115701268482?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1368083115701268482%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2FCoderHarish2Fstatus2F1368083115701268482widget%3DTweet)In this article, I shared  my experience on taking this challenge  and some key learning. I shared my progress on twitter
 
 # 1. Idea
 
@@ -31,7 +31,7 @@ Reaching the first 10 customers is a manual and relatively straightforward proce
 * List on marketplaces - Even if you do the basic optimization for a marketplace (correct naming, description, listing page, screenshots), and if the problem you are solving has established demand, then you should get your first 10 customers from there.
 * Cold email outreach to companies that match your parameters, using data sources like BuiltWith
 
-# 6. Finally failed 
+# 6. Finally failed
 
 My target was $100 but what I earned in the final was only $10 with lots of lessons. 
 
