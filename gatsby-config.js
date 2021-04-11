@@ -3,7 +3,7 @@ module.exports = {
     title: `Harish's Blog`,
     author: {
       name: `Harish`,
-      summary: `Passionate programmer | A student from Amrita | SaaS entreprenuer | Bike love | from Neyveli | built ScoopML | Amateur Product manager`,
+      summary: `Passionate programmer | A student from Amrita | Bike love | from Neyveli | built some super cool products | Amateur Product manager`,
     },
     description: `I write about coding , technology , startups etc`,
     siteUrl: `https://gracious-wescoff-67fca2.netlify.app`,
