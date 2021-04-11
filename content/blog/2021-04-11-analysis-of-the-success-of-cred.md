@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Analysis of the success of CRED !!
+title: Analysis on the success of CRED !!
 date: 2021-04-11T07:02:51.556Z
 ---
 CRED has been one such product that has entered the market with a bang. It has become an unicorn with 2.2 Billion valuation.CRED is an Indian startup that simplifies ‘Credit Card Payment’ and it is its core use-cases.
