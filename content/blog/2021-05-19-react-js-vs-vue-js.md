@@ -19,7 +19,7 @@ Hey guys, In this article, I am gonna compare both react.js and vue.js based on 
 
 <!--StartFragment-->
 
-To stay unbiased, I would suggest starting looking at the differences between React and Vue.js in Vue.js documentation(which is quite good and addresses the topic quite well). It was written by Evan You in cooperation with Dan Abramov(from the React team).
+To stay unbiased, I would suggest starting looking at the differences between React and Vue.js in Vue.js documentation(which is quite good and addresses the topic quite well). It was written by Evan You in cooperation with Dan Abramov(from the Facebook).
 
 Both Vue and React use virtual DOM(each of them has different implementation though).
 
