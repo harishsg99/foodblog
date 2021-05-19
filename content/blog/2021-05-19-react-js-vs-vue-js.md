@@ -93,10 +93,10 @@ When choosing a technology for a project, it’s also vital to know where this t
 * Nintendo
 * Grammarly
 
-To sum up, React is currently more popular than Vue. It has a strong and influential mentor that improves and maintains it, while Vue doesn’t. Vue.js and React.js provide high flexibility, easy learning curve, and both are small in size.
+
 
 <!--EndFragment-->
 
 # Conclusions
 
-So, is Vue going to take over React? but not in 2021 may be in 2023 or 2025,
+So, is Vue going to take over React? but not in 2021 may be in 2023 or 2025,To sum up, React is currently more popular than Vue. It has a strong and influential mentor that improves and maintains it, while Vue doesn’t. Vue.js and React.js provide high flexibility, easy learning curve, and both are small in size.
